@@ -1,4 +1,4 @@
-OD_id,from_node_id,OD_demand_t1,OD_demand_t2,OD_demand_t3
+OD_id,from_node_id,to_node_id,OD_demand_t1,OD_demand_t2,OD_demand_t3
 1,1,2,210,206,204
 2,1,3,431,440,401
 3,1,8320,293,341
